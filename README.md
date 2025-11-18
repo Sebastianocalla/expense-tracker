@@ -1,7 +1,7 @@
 # Expense Tracker 
 
 Un'applicazione Java per gestire le spese personali e poterele dividere in categorie.
-Questo progetto avrà focus su:
+Questo progetto sarà creato con queste tecnologie:
 - Java 21
 - Database PostgreSql
 - Frontend Angular o React (ancora da scegliere)
